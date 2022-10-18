@@ -27,7 +27,9 @@ But as and when required , we would like to learn new skills and grow each and e
 
 ### Rank Order Analysis 
 Supplemented the ML model with a Rank Order Analysis for Monitoring puposes 
+
 •	Targeted an optimal pool of customers by deploying a Strategic Model (Rank Order) thus minimizing the cost and maximizing the ROI by 2.5X 
+
 •	Achieved 83% of the Total Profit by reaching out to 1/3rd of the population 
 
 
